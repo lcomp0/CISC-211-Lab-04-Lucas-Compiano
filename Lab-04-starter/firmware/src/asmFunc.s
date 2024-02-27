@@ -58,7 +58,7 @@ asmFunc:
  
     
     /*** STUDENTS: Place your code BELOW this line!!! **************/
-
+    eat_out: .word 0
     
     /*** STUDENTS: Place your code ABOVE this line!!! **************/
 
